@@ -20,3 +20,7 @@ Bu proje, YOLO kullanılarak tekstil alanındaki en popüler kıyafetleri ve ren
 <img src="kazak.png" width=350 height=350>
 <img src="pantolon.png" width=350 height=350>
 <img src="tshirt.png" width=350 height=350>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 162da5d (Görseller eklendi)
