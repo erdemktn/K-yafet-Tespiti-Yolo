@@ -1,36 +1,20 @@
-# Projemin Adı
+# Kıyafet Tespiti👕👖
 
-Bu proje, X amacını gerçekleştirmek için geliştirilmiştir.
+Bu proje, YOLO kullanılarak tekstil alanındaki en popüler kıyafetleri ve renklerini tespit etmektedir.
 
 ---
 
-## Özellikler
+## Kıyafetler
 
-- Özellik 1: Kullanıcı dostu arayüz
-- Özellik 2: Hızlı ve güvenilir
-- Özellik 3: Çoklu platform desteği
+- Pantolon
+- Tshirt
+- Kazak
+- Etek
+- Gömlek
 
 ---
 
 ## Proje Görselleri
-
-### Ana Ekran Görünümü
-![Ana Ekran]([images/main_screen.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt3O2ZaauQDglR1496t5wU_AhLHedclKbiqg&s))
-
-Uygulamanın ana ekranında kullanıcılar tüm özelliklere kolayca erişebilir.
-
----
-
-### İşlem Akışı
-![İşlem Akışı](images/workflow_diagram.png)
-
-Bu diyagramda projenin temel işlem akışı gösterilmiştir.
-
----
-
-## Kurulum
-
-```bash
-git clone https://github.com/kullaniciadi/proje-adi.git
-cd proje-adi
-# gerekli kurulum adımları
+<img src="sonuc_1.png" width=350 height=350>
+<img src="sonuc_2.png" width=350 height=350>
+<img src="sonuc_3.png" width=350 height=350>
