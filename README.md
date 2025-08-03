@@ -14,6 +14,17 @@ Bu proje, YOLO kullanılarak tekstil alanındaki en popüler kıyafetleri ve ren
 
 ---
 
+## Renkler
+
+- Siyah
+- Beyaz
+- Kahverengi
+- Kırmızı
+- Sarı
+- Mavi
+- Pembe
+- Yeşil
+
 ## Proje Görselleri
 <img src="images/etek.png" width=350 height=350>
 <img src="images/gomlek.png" width=350 height=350>
